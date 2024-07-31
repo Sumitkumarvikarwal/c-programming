@@ -1,0 +1,4 @@
+student name : sumit
+student age : 20
+student cgpa : 9.6
+
