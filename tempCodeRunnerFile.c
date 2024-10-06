@@ -1,4 +1,4 @@
-char firstname[40];
-printf("enter first name:");
-scanf("%s",firstname);
-printf("your first name is %s\n",firstname);
+     // for (int j = 1; j <= n - i; j++)
+        // {
+        //     printf(" * ");
+        // }
